@@ -1,0 +1,1877 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"formData"
+			],
+			[
+				"uniq",
+				"uniqueid"
+			],
+			[
+				"uniqu",
+				"unique"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"flex",
+				"flex-start\tjustify-content"
+			],
+			[
+				"padi",
+				"padding\tproperty"
+			],
+			[
+				"oevrflow",
+				"overflow-y\tproperty"
+			],
+			[
+				"super",
+				"superfunds"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"d",
+				"disabled"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"perms",
+				"Permission"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"paddig",
+				"padding-right"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"mod",
+				"moduleRowCount"
+			],
+			[
+				"overflow",
+				"overflow-y\tproperty"
+			],
+			[
+				"overf",
+				"overflow-y\tproperty"
+			],
+			[
+				"user",
+				"userdata"
+			],
+			[
+				"inle",
+				"inline-block\tdisplay"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"arra",
+				"arrayType"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"justify-conte",
+				"justify-content-end"
+			],
+			[
+				"pre",
+				"prev_page_tag"
+			],
+			[
+				"overfl",
+				"overflow-y\tproperty"
+			],
+			[
+				"border-botto",
+				"border-bottom\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"tab",
+				"tableweek2"
+			],
+			[
+				"table",
+				"table-week-1"
+			],
+			[
+				"center",
+				"center-id-select"
+			],
+			[
+				"area",
+				"area-value"
+			],
+			[
+				"incre",
+				"incrementer"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"Super",
+				"SuperMemberships"
+			],
+			[
+				"E",
+				"Employees"
+			],
+			[
+				"superf",
+				"superfunds"
+			],
+			[
+				"re",
+				"ready"
+			],
+			[
+				"su",
+				"superfundHTML"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ram",
+				"Remainder"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"span",
+				"span-class"
+			],
+			[
+				"pa",
+				"parent-child"
+			],
+			[
+				"use",
+				"userdata"
+			],
+			[
+				"h",
+				"hidden\toverflow-x"
+			],
+			[
+				"PADDING-",
+				"padding-left\tproperty"
+			],
+			[
+				"broder",
+				"border\tproperty"
+			],
+			[
+				"red",
+				"redirectToLogin"
+			],
+			[
+				"mari",
+				"margin-bottom\tproperty"
+			],
+			[
+				"shift",
+				"shift-bar-tab"
+			],
+			[
+				"da",
+				"datalist\tTag"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"ref",
+				"refreshedToken"
+			],
+			[
+				"sh",
+				"shift-bar"
+			],
+			[
+				"BASE",
+				"BASE_API_URL"
+			],
+			[
+				"Au",
+				"AuthToken"
+			],
+			[
+				"ent",
+				"entitlementsModal"
+			],
+			[
+				"entitle",
+				"entitlement"
+			],
+			[
+				"getAdvertisement",
+				"getAdvertisementByUser"
+			],
+			[
+				"en",
+				"entitlementId"
+			],
+			[
+				"orgchart",
+				"orgchartroles"
+			],
+			[
+				"advertise",
+				"advertisementId"
+			],
+			[
+				"dateToDay",
+				"dateToDayAndYear"
+			],
+			[
+				"contaier",
+				"containerHeight"
+			],
+			[
+				"conta",
+				"containerHeight"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"getAll",
+				"getAllEntitlements"
+			],
+			[
+				"uni",
+				"uniqueId"
+			],
+			[
+				"post",
+				"postJob"
+			],
+			[
+				"payrollTy",
+				"payrollTypes"
+			],
+			[
+				"alig",
+				"align-items-center"
+			],
+			[
+				"arar",
+				"array-type"
+			],
+			[
+				"times",
+				"Timesheet"
+			],
+			[
+				"timesheet",
+				"timesheetDetails"
+			],
+			[
+				"careA",
+				"careAgeTo"
+			],
+			[
+				"care",
+				"careAgeFrom"
+			],
+			[
+				"li",
+				"list-style-image\tproperty"
+			],
+			[
+				"centerAdd",
+				"centerAddCity"
+			],
+			[
+				"centerA",
+				"centerAddStreet"
+			],
+			[
+				"current",
+				"currentPassword"
+			],
+			[
+				"Settig",
+				"settingsModel"
+			],
+			[
+				"box",
+				"box-name"
+			],
+			[
+				"areas",
+				"areas-roles-list"
+			],
+			[
+				"curre",
+				"currentDate"
+			],
+			[
+				"editro",
+				"editRoleSubmit"
+			],
+			[
+				"role",
+				"roleNameClass"
+			],
+			[
+				"name",
+				"nameOfRole"
+			],
+			[
+				"addAre",
+				"addAreaSubmit"
+			],
+			[
+				"next",
+				"nextElem"
+			],
+			[
+				"nex",
+				"nextElem"
+			],
+			[
+				"inser",
+				"insertBefore"
+			],
+			[
+				"inse",
+				"insertAdjacentHTML"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fir",
+				"firstElementChild"
+			],
+			[
+				"are",
+				"areasRolesList"
+			],
+			[
+				"view",
+				"view_image"
+			],
+			[
+				"icon",
+				"icon_image"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"slect",
+				"querySelector"
+			],
+			[
+				"i",
+				"itinerary"
+			],
+			[
+				"fot",
+				"font-family\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "retailers/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 673,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/resources/views/general/links.blade.php",
+			"settings":
+			{
+				"buffer_size": 940,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "retailers/resources/views/main/shop-grid.blade.php",
+			"settings":
+			{
+				"buffer_size": 45055,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "retailers/resources/views/general/plugins.blade.php",
+			"settings":
+			{
+				"buffer_size": 589,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "retailers/app/Http/Controllers/ShopController.php",
+			"settings":
+			{
+				"buffer_size": 473,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/public/assets/js/main.js",
+			"settings":
+			{
+				"buffer_size": 6090,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "retailers/database/migrations/2020_07_12_211044_create_carts_table.php",
+			"settings":
+			{
+				"buffer_size": 962,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/database/migrations/2020_07_16_215653_create_categories_table.php",
+			"settings":
+			{
+				"buffer_size": 694,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/.env",
+			"settings":
+			{
+				"buffer_size": 832,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/.env.example",
+			"settings":
+			{
+				"buffer_size": 778,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/bootstrap/cache/packages.php",
+			"settings":
+			{
+				"buffer_size": 1056,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/bootstrap/cache/services.php",
+			"settings":
+			{
+				"buffer_size": 13854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/app/Exceptions/Handler.php",
+			"settings":
+			{
+				"buffer_size": 1141,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/resources/views/auth/register.blade.php",
+			"settings":
+			{
+				"buffer_size": 5292,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/app/User.php",
+			"settings":
+			{
+				"buffer_size": 782,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/app/Http/Controllers/Auth/RegisterController.php",
+			"settings":
+			{
+				"buffer_size": 2183,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+			"settings":
+			{
+				"buffer_size": 691,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/database/migrations/2014_10_12_000000_create_users_table.php",
+			"settings":
+			{
+				"buffer_size": 1054,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/app/Cart.php",
+			"settings":
+			{
+				"buffer_size": 282,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/app/Http/Controllers/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 623,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/resources/views/main/addItem.blade.php",
+			"settings":
+			{
+				"buffer_size": 4174,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "retailers/app/Http/Controllers/ItemController.php",
+			"settings":
+			{
+				"buffer_size": 2235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/app/Item.php",
+			"settings":
+			{
+				"buffer_size": 1011,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/resources/views/main/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 41228,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "retailers/database/migrations/2020_07_09_212224_create_items_table.php",
+			"settings":
+			{
+				"buffer_size": 1276,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "retailers/config/database.php",
+			"settings":
+			{
+				"buffer_size": 5057,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/retailers/retailers/config/app.php",
+		"/C/xampp/htdocs/retailers/retailers/public/assets/img/items",
+		"/C/xampp/htdocs/retailers/retailers/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/xampp/htdocs/retailers/retailers/.env",
+		"/C/xampp/htdocs/retailers/retailers/package-lock.json",
+		"/C/xampp/htdocs/retailers/retailers/node_modules/yargs/package.json",
+		"/C/xampp/htdocs/retailers/retailers/node_modules/yargs-parser/package.json",
+		"/C/xampp/htdocs/PN101/api/application/models/RostersModel.php",
+		"/C/xampp/htdocs/PN101/api/application/models/SettingsModel.php",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Timesheet.php",
+		"/C/xampp/htdocs/PN101/api/application/models/TimesheetModel.php",
+		"/C/xampp/htdocs/PN101/application/config/constants.php",
+		"/C/xampp/htdocs/PN101/api/application/models/AuthModel.php",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Payroll.php",
+		"/C/xampp/htdocs/PN101/application/views/entitlementsView.php",
+		"/C/xampp/htdocs/PN101/application/views/editOrgChartView.php",
+		"/C/xampp/htdocs/PN101/application/views/awardSettings.php",
+		"/C/xampp/htdocs/PN101/application/views/createCenterProfile.php",
+		"/C/xampp/htdocs/PN101/application/views/addEmployee.php",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Settings.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Settings.php",
+		"/C/xampp/htdocs/PN101/application/views/superfundSettings.php",
+		"/C/xampp/htdocs/PN101/application/views/permission.php",
+		"/C/xampp/htdocs/PN101/application/views/leaveSettings.php",
+		"/C/xampp/htdocs/PN101/application/views/editRoomsView.php",
+		"/C/xampp/htdocs/PN101/application/views/editCenterProfile.php",
+		"/C/xampp/htdocs/PN101/application/views/mView.php",
+		"/C/xampp/htdocs/PN101/application/views/leaveView.php",
+		"/C/xampp/htdocs/PN101/application/views/payrollList.php",
+		"/C/xampp/htdocs/PN101/application/views/getPastTimesheetsView.php",
+		"/C/xampp/htdocs/PN101/application/views/rosterView.php",
+		"/C/xampp/htdocs/PN101/application/views/editPasswordView.php",
+		"/C/xampp/htdocs/PN101/api/application/config/autoload.php",
+		"/C/xampp/htdocs/PN101/application/views/timesheetView.php",
+		"/C/xampp/htdocs/PN101/application/views/rosterData.php",
+		"/C/xampp/htdocs/PN101/application/views/login.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Roster.php",
+		"/C/xampp/htdocs/PN101/application/views/settings.php",
+		"/C/xampp/htdocs/PN101/application/views/header.php",
+		"/C/xampp/htdocs/PN101/application/config/autoload.php",
+		"/C/xampp/htdocs/PN101/application/views/meetingInfo.php",
+		"/C/xampp/htdocs/PN101/application/views/dashboard.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Dashboard.php",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Auth.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Notice.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Leave.php",
+		"/C/xampp/htdocs/PN101/application/views/noticeView.php",
+		"/C/xampp/htdocs/PN101/application/views/createNoticeView.php",
+		"/C/xampp/htdocs/PN101/api/application/models/UtilModel.php",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Util.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Rosters.php",
+		"/C/xampp/htdocs/PN101/api/application/models/DashboardModel.php",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Dashboard.php",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Leave.php",
+		"/C/xampp/htdocs/PN101/api/application/models/LeaveModel.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Job.php",
+		"/C/xampp/htdocs/PN101/api/application/config/config.php",
+		"/C/xampp/htdocs/PN101/application/helpers/library_helper.php",
+		"/C/xampp/htdocs/PN101/application/views/forgot_password_request.php",
+		"/C/xampp/htdocs/PN101/application/views/payrollData.php",
+		"/C/xampp/htdocs/PN101/application/views/timesheetModal.php",
+		"/C/xampp/htdocs/PN101/application/views/forgot_password.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Timesheet.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Messenger.php",
+		"/C/xampp/htdocs/PN101/application/helpers/Library_helper.php",
+		"/C/xampp/htdocs/PN101/application/config/config.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Library.php",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Xero.php",
+		"/C/xampp/htdocs/PN101/application/views/messengerView.php",
+		"/C/xampp/htdocs/sample/sample1.html",
+		"/C/xampp/htdocs/sample/sample1.php",
+		"/C/xampp/htdocs/PN101/api/application/config/database.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Mom.php",
+		"/C/xampp/htdocs/PN101/application/views/mom1_dup.php",
+		"/C/xampp/htdocs/PN101/application/controllers/Payroll.php",
+		"/C/xampp/htdocs/PN101/application/controllers/superfundsSettings.php",
+		"/C/xampp/htdocs/PN101/application/views/payrollModal.php",
+		"/C/xampp/htdocs/PN101/application/views/entitlementsModal.php",
+		"/C/xampp/htdocs/PN101/application/views/createRosterView.php",
+		"/C/xampp/htdocs/PN101/application/views/createMeeting.php",
+		"/C/xampp/htdocs/PN101/application/views/createEmployeeProfile.php",
+		"/C/xampp/htdocs/PN101/application/views/attendence.php",
+		"/C/xampp/htdocs/PN101/application/views/welcome_message.php",
+		"/C/xampp/htdocs/PN101/application/views/mom1.php",
+		"/C/xampp/htdocs/PN101/application/views/mom.php",
+		"/C/xampp/htdocs/PN101/application/views/messengerView_1.php",
+		"/C/xampp/htdocs/PN101/application/views/meetingstarted_dup.php",
+		"/C/xampp/htdocs/PN101/application/views/meetingStarted2.php",
+		"/C/xampp/htdocs/PN101/application/views/meetingStarted1.php",
+		"/C/xampp/htdocs/PN101/application/views/meetingStarted.php",
+		"/C/xampp/htdocs/PN101/application/views/redirectToLogin.php",
+		"/C/xampp/htdocs/PN101/application/views/summary_dup.php",
+		"/C/xampp/htdocs/PN101/application/views/summary.php",
+		"/C/xampp/htdocs/PN101/application/views/startmeeting.php",
+		"/C/xampp/htdocs/manifest.json",
+		"/C/xampp/htdocs/PN101/application/views/manifest.json",
+		"/C/xampp/htdocs/PN101/application/views/sol.cpp",
+		"/C/xampp/htdocs/PN101/application/views/APlusB.java",
+		"/C/xampp/htdocs/PN101/api/application/controllers/manifest.json",
+		"/C/xampp/htdocs/PN101/application/views/fcmFile.php",
+		"/C/xampp/htdocs/PN101/firebase-messaging-sw.js",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Fcm.php",
+		"/C/xampp/htdocs/PN101/application/controllers/fcm.php",
+		"/C/xampp/htdocs/PN101/application/views/firebase-messaging-sw.js",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Mom.php",
+		"/C/xampp/htdocs/PN101/api/application/models/xModel.php",
+		"/C/xampp/htdocs/PN101/application/views/fcm.php",
+		"/C/xampp/htdocs/PN101/api/application/models/PayrollModel.php",
+		"/C/xampp/htdocs/PN101/api/application/controllers/JobAdder.php",
+		"/C/xampp/htdocs/PN101/api/application/models/JobsModel.php",
+		"/C/xampp/htdocs/PN101/application/views/safffe.php",
+		"/C/xampp/htdocs/PN101/vendor/composer/autoload_static.php",
+		"/C/xampp/htdocs/PN101/firebase.php",
+		"/C/xampp/htdocs/PN101/api/application/assets/personnal-8f7c9-84ae865499ff.json",
+		"/C/xampp/htdocs/PN101/.htaccess",
+		"/C/xampp/htdocs/PN101/api/application/controllers/Notice.php",
+		"/C/xampp/htdocs/spotlist/application/views/editOrgChartView.php",
+		"/C/xampp/htdocs/PN101/assets/css/main.css",
+		"/C/xampp/htdocs/spotlist/application/views/centerEditPasswordView.php",
+		"/C/xampp/htdocs/spotlist/application/controllers/Login.php",
+		"/C/xampp/htdocs/spotlist/application/controllers/Center.php",
+		"/C/xampp/htdocs/PN101/application/views/errors/editCenterProfile",
+		"/C/xampp/htdocs/PN101/application/config/database.php",
+		"/C/xampp/htdocs/spotlist/application/config/database.php",
+		"/C/xampp/htdocs/PN101/application/views/errors/editPasswordView.php",
+		"/C/xampp/htdocs/backpackersandcityfreaks/footer.php",
+		"/C/xampp/htdocs/backpackersandcityfreaks/css/footer.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"laravel/",
+			"`",
+			"retweet",
+			"heart",
+			"department",
+			"ogan",
+			"assets",
+			"asset('",
+			"g')",
+			"png",
+			"jpg",
+			"\"img",
+			"latest-product__slider",
+			"latest-prdouct__slider",
+			"latest products",
+			"hello@colorlib",
+			"is required",
+			"is required ",
+			"login",
+			"heart",
+			".jpg",
+			" assets",
+			".png",
+			"\"img",
+			"version"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"share-alt",
+			"assets/",
+			"asset('assets",
+			"g') }}",
+			"png')",
+			"jpg')",
+			"\"{{ asset('img",
+			"contact@bulcmart",
+			".jpg') }}",
+			"assets",
+			".png ') }}",
+			".png ')\" }}",
+			"\"{{ asset(' assets/img"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 12,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "retailers/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								673
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "retailers/resources/views/general/links.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								940,
+								940
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "retailers/resources/views/main/shop-grid.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21051,
+								21058
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 182.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "retailers/resources/views/general/plugins.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							],
+							[
+								131,
+								131
+							],
+							[
+								201,
+								201
+							],
+							[
+								280,
+								280
+							],
+							[
+								350,
+								350
+							],
+							[
+								422,
+								422
+							],
+							[
+								490,
+								490
+							],
+							[
+								563,
+								563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "retailers/app/Http/Controllers/ShopController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								472,
+								472
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "retailers/public/assets/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "retailers/database/migrations/2020_07_12_211044_create_carts_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "retailers/database/migrations/2020_07_16_215653_create_categories_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "retailers/.env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 27.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "retailers/.env.example",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "retailers/bootstrap/cache/packages.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								605,
+								611
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "retailers/bootstrap/cache/services.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1081,
+								1081
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "retailers/app/Exceptions/Handler.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "retailers/resources/views/auth/register.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3560,
+								3560
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 91.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "retailers/app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								779,
+								779
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "retailers/app/Http/Controllers/Auth/RegisterController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2082,
+								2090
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 166.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "retailers/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "retailers/database/migrations/2014_10_12_000000_create_users_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "retailers/app/Cart.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "retailers/app/Http/Controllers/HomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								474,
+								474
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "retailers/resources/views/main/addItem.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "retailers/app/Http/Controllers/ItemController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1011,
+								1011
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "retailers/app/Item.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "retailers/resources/views/main/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41115,
+								41115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1805.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "retailers/database/migrations/2020_07_09_212224_create_items_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "retailers/config/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2546,
+								2546
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "retailers.workspace.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
